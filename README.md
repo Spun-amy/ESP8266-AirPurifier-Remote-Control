@@ -30,7 +30,7 @@ This project allows to control an air purifier fan remotely using an ESP8266
 5. Get the IP Address
 6. Use Postman to send GET requests (on/off).
 
-## API Endpoints,
+## API Endpoints
 | Endpoint        | Method | Description             |
 |----------------|--------|-------------------------|
 | /            | GET    | Check if device is running |
