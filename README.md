@@ -19,6 +19,7 @@ This project allows to control an air purifier fan remotely using an ESP8266
 
 ## Circuit Wiring / Power and Control Diagram
 ![Air Purifier Circuit Diagram]([https://github.com/Spun-amy/ESP8266-Airpurifier-Remote-Control/blob/main/airpurifier_circuit_diagram.jpg?raw=true](https://github.com/Spun-amy/ESP8266-AirPurifier-Remote-Control/blob/4092c680e1efc7f6317afc4910c977c7ccf8bf8f/Airpurifier%20control%20circuit%20diagram.jpg) 
+![ESP8266 Hardware Setup](https://github.com/Spun-amy/ESP8266-AirPurifier-Remote-Control/blob/e0a3a374d13e4e164eb9a6f45c25b792946f49fb/Air%20Purifier%20ESP8266%20(Hardware%20Setup).jpg?raw=true)
 
 ## How to Use 
 1. Installation and Setup.
